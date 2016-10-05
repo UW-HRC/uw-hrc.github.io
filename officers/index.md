@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Members"
+title: "Officers"
 ---
 
-Distinguished Run Leaders
+## Distinguished Run Leaders ##
+
 You can read about their responsibilities [here](/members/responsibilities.html).
