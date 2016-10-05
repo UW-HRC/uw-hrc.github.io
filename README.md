@@ -20,5 +20,3 @@ The purpose of Jekyll clean is to wipe out the `__site/` directory before rebuil
 
 If you choose not to use Bundler, you can just run the same commands but omit `bundle exec`.
 
-
-I also recommend adding the `__site/` directory to your `.gitignore` so that local builds do not conflict with those on Github.
