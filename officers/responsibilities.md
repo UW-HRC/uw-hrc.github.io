@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Responsibilities
+title: Officer Responsibilities
 hidden: true
 ---
-
-
-<h1>Member&#39;s Responsiblies</h1>
 
 <h2>President</h2>
 <p>To control the affairs of the organization on behalf of the members and organize and preside over officer meetings. These responsibilities include creating meeting agendas and facilitating communication throughout the club.</p>
