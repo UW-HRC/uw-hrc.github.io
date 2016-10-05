@@ -1,0 +1,45 @@
+<footer class="site-footer" style="margin-bottom: 20px; font-size: 16px;">
+  <hr>
+  <div class="row">
+    <div class="col-md-12">
+      <p>
+        We see customers by appointment only. Please e-mail <a href="mailto:{{ site.email }}">{{ site.email }}</a> or call us at 248-855-5230.
+      </p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <p>
+        <a href="https://www.facebook.com/Bead-Works-253079639251/" target="_blank"><img src={{ '/img/fb-logo.png' | prepend:site.baseurl }} style="height: 30px; border-radius: 2px; -moz-border-radius:2px; -webkit-border-radius:2px;"> &nbsp;&nbsp;Bead Works on Facebook</a>
+      </p>
+    </div>
+  </div>
+</footer>
+
+<!-- Modal -->
+<div class="modal fade" id="image_modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="modal_title"></h4>
+      </div>
+      <div class="modal-body">
+        <img style="display: block; margin: auto;" id="modal_image">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- Fonts & jQuery -->
+<link href='https://fonts.googleapis.com/css?family=Lora:400,700' rel='stylesheet' type='text/css'>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+<script type="text/javascript" src="{{ '/js/image-modal.js' | prepend:site.baseurl }}"></script>

@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<div class="row">
+  <div class="col-md-12">
+    <img src='{{ "/img/logo.png" | prepend:site.baseurl }}' style="max-height: 100px; margin-top:20px; margin-bottom: 10px;">
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+    {% if page.extended-title %}
+    <h2>{{page.extended-title}}</h2>
+    {% else %}
+    <h2>{{page.title}}</h2>
+    {% endif %}
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-12">
+    {{content}}
+  </div>
+</div>
