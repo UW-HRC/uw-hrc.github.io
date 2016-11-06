@@ -18,5 +18,5 @@ You will find the site has been built in the `__site/` directory relative to the
 
 The purpose of Jekyll clean is to wipe out the `__site/` directory before rebuilding the website, so it doesn't try to reuse cached content that may have changed.
 
-If you choose not to use Bundler, you can just run the same commands but omit `bundle exec`.
+If you choose not to use Bundler, you can just run the same commands but omit `bundle exec`. But for whatever reason, this is not recommended by Jekyll -- so you should probably just drink the Kool-Aid and use Bundler, for reasons.
 
