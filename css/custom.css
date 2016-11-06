@@ -1,0 +1,8 @@
+.col-half {
+  width: 50%;
+  display: inline;
+}
+
+.row {
+  width: 100%
+}

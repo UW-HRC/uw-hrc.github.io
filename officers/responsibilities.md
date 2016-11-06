@@ -21,6 +21,7 @@ hidden: true
     to the organization website and the Paws 5K website and registration materials. To be familiar with the club&#39;s online file sharing systems and technological resources available through the HUB and SAO and disseminate this information to other
     club officers to facilitate the smooth functioning of the club. </p>
 
+<a name="run_leaders"></a>
   <h2>Group Run Leaders</h2>
   <p>To help lead the group runs and be responsible for their group&#39;s safety and well-being throughout. New run leaders are nominated by current officers and must sign
     an agreement form. <p>
