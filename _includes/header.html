@@ -4,7 +4,16 @@
 
     {% assign custom_url = site.url | append: site.baseurl %}
     {% assign full_base_url = custom_url | default: site.github.url %}
-    <a class="site-title" href="{{ full_base_url }}/">{{ site.title | escape }}</a>
+    <div>
+      <a href="{{ full_base_url }}/">
+        <div style="float:left;">
+          <img src="{{ site.baseurl }}/assets/logo_white.png" style="width: 35px; margin: 6px 15px 10px 5px;" />
+        </div>
+        <div>
+          <span class="site-title">{{ site.title | escape }}</span>
+        </div>
+      </a>
+    </div>
 
     <nav class="site-nav">
       <span class="menu-icon">
@@ -17,9 +26,9 @@
 
       <div class="trigger">
         {% for my_page in site.pages %}
-          {% if my_page.title and my_page.hidden != true %}
-          <a class="page-link" href="{{ my_page.url | prepend: full_base_url }}">{{ my_page.title | escape }}</a>
-          {% endif %}
+        {% if my_page.title and my_page.hidden != true %}
+        <a class="page-link" href="{{ my_page.url | prepend: full_base_url }}">{{ my_page.title | escape }}</a>
+        {% endif %}
         {% endfor %}
       </div>
     </nav>
