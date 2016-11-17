@@ -16,6 +16,11 @@ $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
+$purple-color: #683892;
+$purple-color-dark: darken($purple-color, 10%);
+$purple-color-light: lighten($purple-color, 15%);
+$text-on-purple: darken(#ffffff, 2%);
+
 // Width of the content area
 $content-width:    800px !default;
 

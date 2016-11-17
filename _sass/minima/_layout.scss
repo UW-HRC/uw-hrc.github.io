@@ -2,9 +2,10 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  border-top: 5px solid $purple-color-dark;
+  border-bottom: 1px solid $purple-color-light;
   min-height: 56px;
+  background-color: $purple-color;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -17,23 +18,26 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+  color: $text-on-purple;
+  font-family: "Raleway", sans-serif;
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $text-on-purple;
   }
 }
 
 .site-nav {
   float: right;
   line-height: 56px;
+  font-family: "Raleway", sans-serif;
 
   .menu-icon {
     display: none;
   }
 
   .page-link {
-    color: $text-color;
+    color: $text-on-purple;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -68,6 +72,7 @@
     .trigger {
       clear: both;
       display: none;
+      background-color: $purple-color;
     }
 
     &:hover .trigger {
