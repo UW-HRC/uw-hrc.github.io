@@ -14,17 +14,17 @@ You can read about their responsibilities [here](/officers/responsibilities.html
 | ------ | ------ |
 | ![Carter Johnson] | ![Magena Fura] |
 
-[Tati Ishii]: /officers/img/tati_ishii.jpg
+[Tati Ishii]: {{ full_base_url }}officers/img/tati_ishii.jpg
 {: height="250px" width="250px"}
 
-[Jeevan Philip]: /officers/img/jeevan_philip.jpg
+[Jeevan Philip]: {{ full_base_url }}officers/img/jeevan_philip.jpg
 {: height="250px" width="250px"}
 
-[Ariel Kadouri]: /officers/img/ariel_kadouri.jpg
+[Ariel Kadouri]: {{ full_base_url }}officers/img/ariel_kadouri.jpg
 {: height="250px" width="250px"}
 
-[Carter Johnson]: /officers/img/carter_johnson.jpg
+[Carter Johnson]: {{ full_base_url }}officers/img/carter_johnson.jpg
 {: height="250px" width="250px"}
 
-[Magena Fura]: /officers/img/magena_fura.jpg
+[Magena Fura]: {{ full_base_url }}officers/img/magena_fura.jpg
 {: height="250px" width="250px"}
