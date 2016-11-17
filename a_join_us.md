@@ -10,4 +10,4 @@ Husky Running Club has no official "membership" requirement; all students are we
 - Follow our <a href="https://www.facebook.com/uwhuskyrunningclub/" target="_blank">Facebook page</a> to get important updates about the club,
 - Explore our [routes](/routes).
 
-Once you're comfortable with the club, you can become a [run leader]({{ full_base_url }}officers/responsibilities.html#run_leaders) or apply for an [officer position](/officers/responsibilities.html), if you're into that sort of thing.
+Once you're comfortable with the club, you can become a [run leader]({{ baseurl }}/officers/responsibilities.html#run_leaders) or apply for an [officer position](/officers/responsibilities.html), if you're into that sort of thing.

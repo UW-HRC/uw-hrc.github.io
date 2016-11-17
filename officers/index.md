@@ -4,7 +4,7 @@ title: "Officers"
 ---
 
 ## Distinguished Officers.
-You can read about their responsibilities [here](/officers/responsibilities.html).
+You can read about their responsibilities [here]({{ site.baseurl }}/officers/responsibilities.html).
 
 | Tati Ishii | Jeevan Philip | Ariel Kadouri|
 | ------ | ------ | ------ |
@@ -14,17 +14,17 @@ You can read about their responsibilities [here](/officers/responsibilities.html
 | ------ | ------ |
 | ![Carter Johnson] | ![Magena Fura] |
 
-[Tati Ishii]: {{ full_base_url }}officers/img/tati_ishii.jpg
+[Tati Ishii]: {{ site.baseurl }}/officers/img/tati_ishii.jpg
 {: height="250px" width="250px"}
 
-[Jeevan Philip]: {{ full_base_url }}officers/img/jeevan_philip.jpg
+[Jeevan Philip]: {{ site.baseurl }}/officers/img/jeevan_philip.jpg
 {: height="250px" width="250px"}
 
-[Ariel Kadouri]: {{ full_base_url }}officers/img/ariel_kadouri.jpg
+[Ariel Kadouri]: {{ site.baseurl }}/officers/img/ariel_kadouri.jpg
 {: height="250px" width="250px"}
 
-[Carter Johnson]: {{ full_base_url }}officers/img/carter_johnson.jpg
+[Carter Johnson]: {{ site.baseurl }}/officers/img/carter_johnson.jpg
 {: height="250px" width="250px"}
 
-[Magena Fura]: {{ full_base_url }}officers/img/magena_fura.jpg
+[Magena Fura]: {{ site.baseurl }}/officers/img/magena_fura.jpg
 {: height="250px" width="250px"}
