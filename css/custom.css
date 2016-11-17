@@ -6,3 +6,19 @@
 .row {
   width: 100%
 }
+
+.officer-name {
+  text-align: center;
+  width: 100%;
+  font-weight: normal;
+  font-size: 18px;
+}
+
+.officer-photo {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.officer-role {
+
+}

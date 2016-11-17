@@ -27,7 +27,7 @@
       <div class="trigger">
         {% for my_page in site.pages %}
         {% if my_page.title and my_page.hidden != true %}
-        <a class="page-link" href="{{ my_page.url | prepend: full_base_url }}">{{ my_page.title | escape }}</a>
+        <a class="page-link" href="{{ my_page.url | prepend: full_base_url }}">{% if my_page.short %}{{ my_page.short }}{% else %}{{ my_page.title | escape }}{% endif %}</a>
         {% endif %}
         {% endfor %}
       </div>

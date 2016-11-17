@@ -1,0 +1,117 @@
+---
+layout: page
+title: "Routes"
+---
+
+<p>
+  Husky Running Club has 5 regular group run routes, each of which comes in a
+  short, medium, and long flavor.
+  <br />
+  Select a route and a distance to see where we're running!
+</p>
+<br />
+<div class="grid">
+  <div class="col-2-12">
+    <div class="content">
+
+      <form name="route_form">
+        <p>
+          <strong>Select a route</strong>
+        </p>
+        <div>
+          <div>
+            <label>
+              <input id="interlaken" type="radio" name="route" value="interlaken" />
+              Interlaken
+            </label>
+          </div>
+          <div>
+            <label>
+              <input id="arboretum" type="radio" name="route" value="arboretum" />
+              Arboretum
+            </label>
+          </div>
+          <div>
+            <label>
+              <input id="ravenna" type="radio" name="route" value="ravenna" />
+              Ravenna
+            </label>
+          </div>
+          <div>
+            <label>
+              <input id="laurelhurst" type="radio" name="route" value="laurelhurst" />
+              Laurelhurst
+            </label>
+          </div>
+          <div>
+            <label>
+              <input id="green_lake" type="radio" name="route" value="green_lake" />
+              Green Lake
+            </label>
+          </div>
+        </div>
+        <br />
+        <p>
+          <strong>Select a distance</strong>
+        </p>
+        <div>
+          <div>
+            <label>
+              <input id="3-mile" type="radio" name="distance" value="3" />
+              3-Mile
+            </label>
+          </div>
+          <div>
+            <label>
+              <input id="5-mile" type="radio" name="distance" value="5" />
+              5-Mile
+            </label>
+          </div>
+          <div>
+            <label>
+              <input id="7-mile" type="radio" name="distance" value="7" />
+              7-Mile
+            </label>
+          </div>
+        </div>
+      </form>
+    </div>
+    <br />
+  </div>
+  <div class="col-10-12">
+    <div class="content">
+      <div id="route-container">
+        <noscript>
+          <div style="background-color: #f7dc6f; padding: 15px; border-radius: 5px; margin-bottom: 15px;">
+            <b>Oh no!</b> This fancy dynamic map-loading feature requires JavaScript, sorry! We need to run <a href="{{site.baseurl}}/js/route_maps.js" target="_blank">this file</a>.
+            It scrapes route map information from MapMyRun, and loads it into this container.
+          </div>
+        </noscript>
+        <div id="yesjs" style="background-color: #683892; padding: 15px; border-radius: 5px; border: 1px solid #8f58bf; display:none;">
+          <span style="color: #fafafa;">
+            <div>Select a map and distance to display route information.</div>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript" src="{{site.baseurl}}/js/route_maps.js"></script>
+<script type="text/javascript">
+// magic
+listenToTheRadio();
+document.getElementById('yesjs').style.display = "block";
+</script>
+
+
+
+<!--
+We run the following routes:
+
+- Interlaken
+- Arboretum
+- Ravenna
+- Wedgewood
+- Green Lake
+-->
