@@ -10,7 +10,7 @@ var routes = {
     7: '//snippets.mapmycdn.com/routes/view/embedded/380812136?width=600&amp;height=400&amp;&amp;line_color=E60f0bdb&amp;rgbhex=DB0B0E&amp;distance_markers=0&amp;unit_type=imperial&amp;map_mode=ROADMAP&amp;last_updated=2014-03-29T17:09:05-05:00'
   },
   'ravenna': {
-    3: '//snippets.mapmycdn.com/routes/view/embedded/381220876?width=600&height=400&&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=0&unit_type=imperial&map_mode=ROADMAP&last_updated=2014-03-29T17:09:05-05:00',
+    3: '//snippets.mapmycdn.com/routes/view/embedded/1362222805?width=600&height=400&&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=0&unit_type=imperial&map_mode=ROADMAP&last_updated=2016-11-17T22:15:40-08:00',
     5: '//snippets.mapmycdn.com/routes/view/embedded/381208242?width=600&height=400&&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=0&unit_type=imperial&map_mode=ROADMAP&last_updated=2014-03-29T17:09:05-05:00',
     7: '//snippets.mapmycdn.com/routes/view/embedded/381213640?width=600&height=400&&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=0&unit_type=imperial&map_mode=ROADMAP&last_updated=2014-03-29T17:09:05-05:00'
   },
@@ -60,6 +60,6 @@ function updateRoutes() {
 
   if(name !== "" && !isNaN(distance)) {
     var route = routes[name][distance];
-    document.getElementById("route-container").innerHTML = '<iframe id="mapmyfitness_route" src="' + route + '" height="400px" width="100%" frameborder="0"" height="500px" width="100%" frameborder="0"></iframe>';
+    document.getElementById("route-container").innerHTML = '<iframe id="mapmyfitness_route" src="' + route + '" height="400px" width="100%" frameborder="0"" width="100%" frameborder="0"></iframe>';
   }
 }
