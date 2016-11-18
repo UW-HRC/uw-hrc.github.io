@@ -60,6 +60,6 @@ function updateRoutes() {
 
   if(name !== "" && !isNaN(distance)) {
     var route = routes[name][distance];
-    document.getElementById("route-container").innerHTML = '<iframe id="mapmyfitness_route" src="' + route + '" height="400px" width="100%" frameborder="0"" width="100%" frameborder="0"></iframe>';
+    document.getElementById("route-container").innerHTML = '<iframe id="mapmyfitness_route" src="' + route + '" height="400px" width="100%" frameborder="0"></iframe><div style="text-align: right; padding-right: 20px;">';
   }
 }
