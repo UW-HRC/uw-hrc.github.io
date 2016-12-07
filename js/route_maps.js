@@ -27,7 +27,9 @@ var routes = {
   'long_names': {
     1: '//snippets.mapmycdn.com/routes/view/embedded/1379987599?width=600&height=400&&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=0&unit_type=imperial&map_mode=ROADMAP&last_updated=2016-12-06T00:45:07-08:00',
     2:
-    '//snippets.mapmycdn.com/routes/view/embedded/1379993344?width=600&height=400&&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=0&unit_type=imperial&map_mode=ROADMAP&last_updated=2016-12-06T01:00:42-08:00'
+    '//snippets.mapmycdn.com/routes/view/embedded/1379993344?width=600&height=400&&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=0&unit_type=imperial&map_mode=ROADMAP&last_updated=2016-12-06T01:00:42-08:00',
+    3:
+    '//snippets.mapmycdn.com/routes/view/embedded/1380770704?width=600&height=400&&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=0&unit_type=imperial&map_mode=ROADMAP&last_updated=2016-12-06T19:55:14-08:00'
   }
 }
 
