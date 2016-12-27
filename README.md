@@ -1,6 +1,8 @@
 # Husky Running Club Website
 
-To install Jekyll using Bundler (recommended), see [here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).
+You'll need Ruby >= 2.1 to install [Jekyll](https://jekyllrb.com) using Bundler, which is recommended.
+
+Install bundler: `gem install bundler`, then, once in the root directory of the repository, run `bundle install` to install all the project dependencies.
 
 To serve the website locally, first navigate to the root of the git repository. From there, run:
 
