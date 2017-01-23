@@ -23,20 +23,37 @@ var routes = {
     3: '//snippets.mapmycdn.com/routes/view/embedded/381215294?width=600&height=400&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=0&unit_type=imperial&map_mode=ROADMAP&last_updated=2014-03-29T17:09:05-05:00',
     5: '//snippets.mapmycdn.com/routes/view/embedded/381216728?width=600&height=400&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=0&unit_type=imperial&map_mode=ROADMAP&last_updated=2014-03-29T17:09:05-05:00',
     7: '//snippets.mapmycdn.com/routes/view/embedded/381218394?width=600&height=400&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=0&unit_type=imperial&map_mode=ROADMAP&last_updated=2014-03-29T17:09:05-05:00'
+  },
+  'long_names': {
+    1: '//snippets.mapmycdn.com/routes/view/embedded/1379987599?width=600&height=400&&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=0&unit_type=imperial&map_mode=ROADMAP&last_updated=2016-12-06T00:45:07-08:00',
+    2:
+    '//snippets.mapmycdn.com/routes/view/embedded/1379993344?width=600&height=400&&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=0&unit_type=imperial&map_mode=ROADMAP&last_updated=2016-12-06T01:00:42-08:00',
+    3:
+    '//snippets.mapmycdn.com/routes/view/embedded/1380770704?width=600&height=400&&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=0&unit_type=imperial&map_mode=ROADMAP&last_updated=2016-12-06T19:55:14-08:00'
   }
 }
 
 /*
   hah, jquery is for hipsters
+  amen
  */
 
 function listenToTheRadio() {
   var rad = document.route_form.route;
   var prev = null;
-  for(var i = 0; i < rad.length; i++) {
+  for(var i = 0; i < rad.length - 1; i++) {
     rad[i].onclick = function() {
+      document.getElementById('long_names').style.display = 'none';
+      document.getElementById('group_dist').style.display = 'block';
       updateRoutes();
     };
+  }
+
+  //set a different onclick for long run
+  rad[rad.length - 1].onclick = function() {
+     document.getElementById('group_dist').style.display = 'none';
+     document.getElementById('long_names').style.display = 'block';
+     updateRoutes();
   }
 
   var rad = document.route_form.distance;
@@ -55,10 +72,11 @@ function listenToTheRadio() {
 }
 
 function updateRoutes() {
+
   var name = document.route_form.route.value;
   var distance = parseInt(document.route_form.distance.value);
 
-  if(name !== "" && !isNaN(distance)) {
+  if(name !== "" && !isNaN(distance) && routes[name][distance] != undefined) {
     var route = routes[name][distance];
     document.getElementById("route-container").innerHTML = '<iframe id="mapmyfitness_route" src="' + route + '" height="400px" width="100%" frameborder="0"></iframe>';
   }

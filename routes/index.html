@@ -49,29 +49,64 @@ title: "Routes"
               Green Lake
             </label>
           </div>
+          <div>
+            <label>
+              <input id="long_run" type="radio" name="route" value="long_names" />
+              Long Runs
+            </label>
+          </div>
         </div>
         <br />
-        <p>
-          <strong>Select a distance</strong>
-        </p>
-        <div>
+        <!--3/5/7 mile selector-->
+        <div id="group_dist" style="display:none">
+          <p>
+            <strong>Select a distance</strong>
+          </p>
           <div>
-            <label>
-              <input id="3-mile" type="radio" name="distance" value="3" />
-                Short (3-4 miles)
-            </label>
+            <div>
+              <label>
+                <input id="3-mile" type="radio" name="distance" value="3" />
+                  Short (3-4 miles)
+              </label>
+            </div>
+            <div>
+              <label>
+                <input id="5-mile" type="radio" name="distance" value="5" />
+                  Medium (5-6 miles)
+              </label>
+            </div>
+            <div>
+              <label>
+                <input id="7-mile" type="radio" name="distance" value="7" />
+                  Long (7-8 miles)
+              </label>
+            </div>
           </div>
+        </div>
+        <!-- long run selector -->
+        <div id="long_names" style="display:none">
+          <p>
+            <strong>Select specific long route</strong>
+          </p>
           <div>
-            <label>
-              <input id="5-mile" type="radio" name="distance" value="5" />
-                Medium (5-6 miles)
-            </label>
-          </div>
-          <div>
-            <label>
-              <input id="7-mile" type="radio" name="distance" value="7" />
-                Long (7-8 miles)
-            </label>
+            <div>
+              <label>
+                <input id="union" type="radio" name="distance" value="1" />
+                  Infamous Lake Union Loop
+              </label>
+            </div>
+            <div>
+              <label>
+                <input id="westlake" type="radio" name="distance" value="2" />
+                  Light Rail &#8594; Westlake
+              </label>
+            </div>
+            <div>
+              <label>
+                <input id="madison" type="radio" name="distance" value="3" />
+                  Madison Beach
+              </label>
+            </div>
           </div>
         </div>
       </form>
