@@ -17,9 +17,14 @@ hidden: true
     of this group.
 </p>
 <h3>Workout Coordinator</h3>
-<p>To organize and preside over track, hill, and any other special workouts. This officer is allowed to recruit other members to assist in execution, but this officer will act as the representative of this group. Webmaster To maintain and implement improvements
+<p>To organize and preside over track, hill, and any other special workouts. This officer is allowed to recruit other members to assist in execution, but this officer will act as the representative of this group. 
+</p>
+
+### Webmaster 
+
+To maintain and implement improvements
     to the organization website and the Paws 5K website and registration materials. To be familiar with the club&#39;s online file sharing systems and technological resources available through the HUB and SAO and disseminate this information to other
-    club officers to facilitate the smooth functioning of the club. </p>
+    club officers to facilitate the smooth functioning of the club
 
 <a name="run_leaders"></a>
   <h3>Group Run Leaders</h3>
