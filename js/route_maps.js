@@ -39,9 +39,10 @@ var routes = {
  */
 
 function listenToTheRadio() {
-  var group_rad = document.route_form.group_route;
-  for(var i = 0; i < group_rad.length - 1; i++) {
-    group_rad[i].onclick = function() {
+  var rad = document.route_form.route;
+  var prev = null;
+  for(var i = 0; i < rad.length - 1; i++) {
+    rad[i].onclick = function() {
       document.getElementById('long_names').style.display = 'none';
       document.getElementById('group_dist').style.display = 'block';
       updateRoutes();
@@ -49,13 +50,14 @@ function listenToTheRadio() {
   }
 
   //set a different onclick for long run
-  document.route_form.long_route.onclick = function() {
+  rad[rad.length - 1].onclick = function() {
      document.getElementById('group_dist').style.display = 'none';
      document.getElementById('long_names').style.display = 'block';
      updateRoutes();
   }
 
   var rad = document.route_form.distance;
+  var prev = null;
   for(var i = 0; i < rad.length; i++) {
     rad[i].onclick = function() {
       updateRoutes();
