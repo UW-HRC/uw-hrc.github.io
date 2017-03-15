@@ -9,7 +9,7 @@ permalink: "paws"
 
 <!-- <img src="{{ site.baseurl }}/assets/paws.png" style="width: 300px; margin-left: auto; margin-right: auto;"> -->
 
-#### Race Date: Saturday, April 8th
+#### **Race Date: Saturday, April 8th**
 
 ### Course Map
 
