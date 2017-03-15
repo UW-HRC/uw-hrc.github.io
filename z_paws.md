@@ -2,4 +2,5 @@
 layout: page
 title: "Paws For a Cause"
 short: "Paws"
+permalink: "paws"
 ---
