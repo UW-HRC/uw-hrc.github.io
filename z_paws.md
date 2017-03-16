@@ -15,7 +15,8 @@ A 5K run and walk around the beautiful UW campus, hosted by the Husky Running Cl
 
 ### Course Map
 
-Coming soon!
+<iframe id="mapmyfitness_route" src="//snippets.mapmycdn.com/routes/view/embedded/1485110515?width=600&height=400&&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=0&unit_type=imperial&map_mode=ROADMAP&last_updated=2017-03-15T16:54:42-07:00" height="400px" width="100%" frameborder="0"></iframe><div style="text-align: right; padding-right: 20px;">
+</div>
 
 ### Registration
 
