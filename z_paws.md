@@ -32,3 +32,5 @@ The race start line will be located nearby the HUB Lawn and Suzzallo/Allen Breez
 The race will begin promptly at 10:00AM! Be sure to arrive early so you can ensure that you have enough time to check-in, pin your number, and warm up!
 
 If you are driving to the event, parking on campus is $5.
+
+[Join the Facebook event and let your friends know!](https://www.facebook.com/events/307163216368106)
