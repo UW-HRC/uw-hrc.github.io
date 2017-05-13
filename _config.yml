@@ -18,8 +18,8 @@ title: Husky Running Club
 email: uwrunner@uw.edu
 description: > # this means to ignore newlines until "baseurl:"
   UW Husky Running Club's official website.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/uwrunner" # the subpath of your site, e.g. /blog
+url: "https://students.washington.edu" # the base hostname & protocol for your site
 twitter_username: uw_hrc
 github_username:  UW-HRC
 
