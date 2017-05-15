@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Join Us"
-permalink: "/join_us"
+permalink: "/join_us/"
 ---
 
 <img src="{{site.baseurl}}/assets/cherry_blossoms.jpg" style="border-radius: 5px;">

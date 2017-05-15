@@ -2,8 +2,8 @@
 layout: page
 title: "Paws For A Cause 5K"
 short: "Paws For A Cause"
-permalink: "/paws"
-# hide_title: "true"
+permalink: "/paws/"
+hide_title: "true"
 ---
 
 
