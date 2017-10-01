@@ -4,6 +4,8 @@ title: Officer Responsibilities
 hidden: true
 ---
 
+In addition to their officer duties, all club officers also serve as run leaders.
+
 <h3>President</h3>
 <p>To control the affairs of the organization on behalf of the members and organize and preside over officer meetings. These responsibilities include creating meeting agendas and facilitating communication throughout the club.</p>
 
