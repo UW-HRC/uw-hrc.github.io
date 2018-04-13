@@ -32,4 +32,5 @@ The race will begin promptly at 9:30am! Be sure to arrive early so you can ensur
 
 ### Course Map
 
-_Course map will be available soon!_
+<iframe id="mapmyfitness_route" src="//snippets.mapmycdn.com/routes/view/embedded/1485110515?width=600&height=400&&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=0&unit_type=imperial&map_mode=ROADMAP&last_updated=2017-03-15T16:54:42-07:00" height="400px" width="100%" frameborder="0"></iframe>
+
