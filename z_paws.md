@@ -10,6 +10,38 @@ hidden: false
 
 <!-- <img src="{{ site.baseurl }}/assets/paws.png" style="width: 300px; margin-left: auto; margin-right: auto;"> -->
 
+### 2018 Race Results
+
+<table border="1" cellpadding="3px">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Bib Number</th>
+            <th>Time</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Sam</td><td>Shekut</td><td>352</td><td>21:30:00</td></tr>
+        <tr><td>Andy</td><td>Ni</td><td>353</td><td>22:45:00</td></tr>
+        <tr><td>Benji</td><td>Frank</td><td>348</td><td>23:24:00</td></tr>
+        <tr><td>Kyle</td><td>Kilmer</td><td>360</td><td>24:20:00</td></tr>
+        <tr><td>Chemay</td><td>Shola</td><td>354</td><td>25:20:00</td></tr>
+        <tr><td>Gargi</td><td>Sivaram</td><td>349</td><td>28:03:00</td></tr>
+        <tr><td>Somil</td><td>Bhandari</td><td>363</td><td>28:32:00</td></tr>
+        <tr><td>wendy</td><td>tate</td><td>357</td><td>31:05:00</td></tr>
+        <tr><td>Abby</td><td>McInnis</td><td>350</td><td>32:44:00</td></tr>
+        <tr><td>Maria</td><td>Scroggs</td><td>358</td><td>38:56:00</td></tr>
+        <tr><td>Steve</td><td>Scroggs</td><td>359</td><td>39:30:00</td></tr>
+        <tr><td>emma</td><td>liao</td><td>355</td><td>40:40:00</td></tr>
+        <tr><td>Christina</td><td>Kim</td><td>356</td><td>40:40:00</td></tr>
+        <tr><td>Lisa</td><td>Tone</td><td>362</td><td>57:45:00</td></tr>
+        <tr><td>Mark</td><td>Jimenez</td><td>361</td><td>57:45:00</td></tr>
+    </tbody>
+</table>     
+
+<br>   
+            
 #### **Race Date: Sunday, April 15th, 2018, 9:30am**
 
 Join Husky Running Club for a 5K run and walk around the beautiful UW campus, with proceeds benefiting Seattle Children's Hospital.
