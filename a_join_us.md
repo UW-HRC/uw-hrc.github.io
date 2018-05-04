@@ -10,7 +10,7 @@ Husky Running Club has no official "membership" requirement; all students are we
 
 #### Fill Out IMA Waiver For HRC
 
-- First visit <a href="https://reg.recreation.uw.edu/" target="_blank">the UW recreation site</a> and login with your UW NetID by clicking the "Log In" link in the upper lefthand corner and choosing the large box at the top that says "UW NetID."
+- First visit <a href="https://reg.recreation.uw.edu/" target="_blank">the UW recreation site</a> and login with your UW NetID by clicking the "Log In" link in the **upper righthand** corner and choosing the large box at the top that says "UW NetID."
 - Click on the menu in the upper left-hand corner of the website (it looks like three dashes stacked atop one another), and then click on the "Club Sports" link.
 - Click on the "Club Waiver" option.
 - Find "Running Club" in the list of clubs, and click "Register." 
@@ -19,7 +19,7 @@ Husky Running Club has no official "membership" requirement; all students are we
 
 #### Get To Know Us!
 
-- Join us on <a href="https://join.slack.com/t/huskyrunningclub/signup" target="_blank">Slack</a> or follow our <a href="https://www.facebook.com/uwhuskyrunningclub/" target="_blank">Facebook page</a> to get important updates about the club, and
+- Follow our <a href="https://www.facebook.com/uwhuskyrunningclub/" target="_blank">Facebook page</a> to get important updates about the club, and
 - Explore our [routes]({{ site.baseurl }}/routes).
 
 Once you're comfortable with the club, you can become a [run leader]({{ site.baseurl }}/officers/responsibilities.html#run_leaders) or apply for an [officer position]({{ site.baseurl }}/officers/responsibilities.html), if you're into that sort of thing.
