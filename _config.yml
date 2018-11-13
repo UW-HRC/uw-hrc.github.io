@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 contact_us_title: Get In Touch
 title: Husky Running Club
-email: uwrunner@uw.edu
+# email: uwrunner@uw.edu
 description: > # this means to ignore newlines until "baseurl:"
   UW Husky Running Club's official website.
 baseurl: "" # the subpath of your site, e.g. /blog
