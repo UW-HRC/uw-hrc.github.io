@@ -16,9 +16,9 @@ Join Husky Running Club for a 5K run and walk around the beautiful UW campus, wi
 
 ### Registration
 
-#### [Register for PAWS online!](https://www.eventbrite.com/e/paws-for-a-cause-2019-tickets-57738297803)
+#### [Register for PAWS online](https://www.eventbrite.com/e/paws-for-a-cause-2019-tickets-57738297803), and [RSVP on Facebook](https://www.facebook.com/events/638084773312461/)!
 
-Save $5 on registration by pre-registering online at the link above for $10. Day of race registration is also available for $15 from **9-9:45am**, and is by cash, check, or card ( only. Registration will take place nearby the start line, on the HUB Lawn.
+Save $5 on registration by pre-registering online at the link above for $10. Day of race registration is also available for $15 from **9-9:45am**, and is by cash, check, or card only. Registration will take place nearby the start line, on the HUB Lawn.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2687.4617661760153!2d-122.30831863425557!3d47.65602522918791!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5490148d695b391f%3A0xb021e2e4b225450e!2sHUB+Yard%2C+Seattle%2C+WA+98105!5e0!3m2!1sen!2sus!4v1521943625073" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe><br>
 
