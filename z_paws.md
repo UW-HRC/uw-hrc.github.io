@@ -24,7 +24,7 @@ Save $5 on registration by pre-registering online at the link above for $10. Day
 
 ### Event Details and Schedule
 
-The race start line will be located nearby the HUB Lawn and Suzzallo/Allen Breezeway. T-shirt purchases and bag-check will also be located here.
+The race start line will be located nearby the HUB Lawn and Suzzallo/Allen Breezeway. **T-shirts will be available for purchase at $10**, and bag-check will also be located here.
 
 The race will begin promptly at 10am! Be sure to arrive early so you can ensure that you have enough time to check-in, pin your number, and warm up!
 
