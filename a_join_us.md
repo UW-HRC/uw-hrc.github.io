@@ -11,10 +11,10 @@ Husky Running Club has no official "membership" requirement; all students are we
 #### Fill Out IMA Waiver For HRC
 
 - First visit <a href="https://reg.recreation.uw.edu/" target="_blank">the UW recreation site</a> and login with your UW NetID by clicking the "Log In" link in the **upper righthand** corner and choosing the large box at the top that says "UW NetID."
-- Click on the menu in the upper left-hand corner of the website (it looks like three dashes stacked atop one another), and then click on the "Club Sports" link.
+- Click on the menu in the upper left-hand corner of the website (it looks like three dashes stacked atop one another), and then click on the "Rec Clubs" link.
 - Click on the "Club Waiver" option.
 - Find "Running Club" in the list of clubs, and click "Register." 
-- To sign the document, you must <b>click</b> on the grey box at the bottom-right of the page, and a popup will appear where you can use your cursor to sign.
+- To sign the document, you must <b>click</b> on the grey box at the bottom-right of the page, and a popup will appear where you can use your cursor to sign. Click "Sign Now" when you're satisfied with your signature.
 - You will be guided through the process of adding emergency contacts. Once finished, click "Check Out" -- it appears like an online cart, but the price is free, so don't worry. If you have any questions about the process, you can <a href="https://www.facebook.com/uwhuskyrunningclub" target="_blank">send us a message</a>.	
 
 #### Get To Know Us!
