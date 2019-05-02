@@ -24,11 +24,11 @@ The purpose of `jekyll clean` is to wipe out the `__site/` directory before rebu
 
 The site is hosted in GitHub pages, so when you update `master` on GitHub, it is automatically rebuilt and the live site is updated. 
 
-===
+<hr>
 
 If you choose not to use Bundler *(not recommended)*, you can just run the same commands but omit `bundle exec`. But keep in mind that this means you'll have to manually `gem install` all of the dependencies in the `Gemfile`, and they will also be installed system-wide.
 
-===
+<hr>
 
 FAQs
 
