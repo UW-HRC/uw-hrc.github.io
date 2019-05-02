@@ -7,8 +7,8 @@ hidden: true
 In addition to their officer duties, all club officers also serve as run leaders.
 
 ### President
-- Control the affairs of the organization on behalf of the members and organize and preside over officer meetings;
-- Create meeting agendas and facilitating communication throughout the club.
+- Control the affairs of the organization on behalf of the members and organize and preside over club meetings;
+- Create meeting agendas and facilitate communication throughout the club.
 
 ### Vice President
 
@@ -31,7 +31,6 @@ In addition to their officer duties, all club officers also serve as run leaders
 ### Technology Coordinator
 
 - Maintain and implement improvements to the organization website and the Paws 5K website and registration materials;
-- Administrate the Husky Running Club Slack channel;
 - Be familiar with the club's online file sharing systems and technological resources available through the HUB and SAO and disseminate this information to other club officers to facilitate the smooth functioning of the club.
 
 
