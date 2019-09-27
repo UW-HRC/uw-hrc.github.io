@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dawgs.run" # the base hostname & protocol for your site
 # twitter_username: uw_hrc
 # github_username:  UW-HRC
-facebooke_username: Husky Running Club
+facebook_username: Husky Running Club
 instagram_username: huskyrunningclub
 
 # Build settings
