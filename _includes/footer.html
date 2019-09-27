@@ -28,8 +28,13 @@
         <div class="footer-cl footer-cl-2">
           <ul class="social-media-list">
             {% if site.instagram_username %}
-              <a href="https://www.instagram.com/huskyrunningclub//{{ site.footer-links.instagram }}">
-                <i class="svg-icon instagram"></i>
+              <a href="https://www.instagram.com/huskyrunningclub/">
+                <div style="float:left;">
+                  <img src="/assets/instagram.png" style="width: 16px; margin: 6px 15px 10px 5px;" />
+                </div>
+                <div>
+                  <span class="username">{{ site.instagram_username | escape }}</span>
+                </div>
               </a>
             {% endif %}
 
