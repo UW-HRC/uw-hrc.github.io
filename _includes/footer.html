@@ -27,19 +27,8 @@
 
         <div class="footer-cl footer-cl-2">
           <ul class="social-media-list">
-            {% if site.instagram_username %}
-              <a href="https://www.instagram.com/huskyrunningclub/">
-                <div>
-                  <img src="/assets/instagram.png" style="width: 16px; height: 16px;" />
-                </div>
-                <div>
-                  <span class="username">{{ site.instagram_username | escape }}</span>
-                </div>
-              </a>
-            {% endif %}
-
             {% if site.facebook_username %}
-              <a href="https://www.facebook.com/groups/337109716972042/">
+              <a href="https://www.facebook.com/groups/337109716972042/" style="flex-direction: row">
                 <div>
                   <img src="/assets/facebook.png" style="width: 16px; height: 16px;" />
                 </div>
@@ -48,6 +37,17 @@
                 </div>
               </a>
             {% endif %}
+
+            {% if site.instagram_username %}
+            <a href="https://www.instagram.com/huskyrunningclub/" style="flex-direction: row">
+              <div>
+                <img src="/assets/instagram.png" style="width: 16px; height: 16px;" />
+              </div>
+              <div>
+                <span class="username">{{ site.instagram_username }}</span>
+              </div>
+            </a>
+          {% endif %}
           </ul>
         </div>
 
