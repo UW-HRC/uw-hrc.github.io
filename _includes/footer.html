@@ -27,17 +27,27 @@
 
         <div class="footer-cl footer-cl-2">
           <ul class="social-media-list">
-            {% if site.github_username %}
-            <li>
-              {% include icon-github.html username=site.github_username %}
-            </li>
+            {% if site.facebook_username %}
+              <a href="https://www.facebook.com/groups/337109716972042/">
+                <div style="float:left;">
+                  <img src="/assets/facebook.png" style="width: 16px; height: 16px; margin-right: 5px" />
+                </div>
+                <div>
+                  <span class="username">{{ site.facebook_username }}</span>
+                </div>
+              </a>
             {% endif %}
 
-            {% if site.twitter_username %}
-            <li>
-              {% include icon-twitter.html username=site.twitter_username %}
-            </li>
-            {% endif %}
+            {% if site.instagram_username %}
+            <a href="https://www.instagram.com/huskyrunningclub/">
+              <div style="float:left;">
+                <img src="/assets/instagram.png" style="width: 16px; height: 16px; margin-right: 5px" />
+              </div>
+              <div>
+                <span class="username">{{ site.instagram_username }}</span>
+              </div>
+            </a>
+          {% endif %}
           </ul>
         </div>
 
