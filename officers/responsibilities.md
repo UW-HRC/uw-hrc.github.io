@@ -47,3 +47,5 @@ In addition to their officer duties, all club officers also serve as run leaders
 - Lead the group runs and assume responsibility for their group's safety and well-being throughout.
 
 **Note**: Prospective Group Run Leaders do not apply during HRC officer elections. There is no limit to the number of Group Run Leaders HRC can have, and Run Leaders may apply at any time. New run leaders must sign an agreement form. If you are interested in becoming a Group Run Leader, please talk to a current officer for more information.
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScrplr74oHLR1loDUJbrC8wTtPowh5GdsevIWIxcZuqoNGfow/viewform?usp=sf_link" target="_blank">Sign up to become a run leader!</a>
