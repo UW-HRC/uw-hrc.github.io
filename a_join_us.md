@@ -10,7 +10,7 @@ Husky Running Club has no official "membership" requirement; all students are we
 
 #### Fill Out IMA Waiver For HRC
 
-- Go to <a href="www.imleagues.com/Washington/RecClubs/" target="_blank">IMLeagues</a>.
+- Go to <a href="http://www.imleagues.com/Washington/RecClubs/" target="_blank">IMLeagues</a>.
 - Create an IMLeagues account under University of Washington with your UW email.
 - You will be sent an activation email, click the link in the email to login and activate your account.
 - Click the Rec Clubs button near the banner.
