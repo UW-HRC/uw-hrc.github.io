@@ -8,7 +8,10 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.6.3"
+gem "jekyll", "~> 4.2.2"
+
+# Set webrick version to ensure kramdown parser error does not occur.
+gem "webrick", "~> 1.7.0"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima"
