@@ -44,8 +44,14 @@ function listenToTheRadio() {
   for(var i = 0; i < rad.length - 1; i++) {
     rad[i].onclick = function() {
       document.getElementById('long_names').style.display = 'none';
+      document.getElementById('group_dist').style.display = 'none';
       document.getElementById('group_dist').style.display = 'block';
-      updateRoutes();
+      const chbx = document.getElementsByName("distance");
+      for(let i=0; i < chbx.length; i++) {
+        chbx[i].checked = false;
+      }
+      document.getElementById("route-container").innerHTML = "";
+      long_run == false;
     };
   }
 
@@ -53,7 +59,11 @@ function listenToTheRadio() {
   rad[rad.length - 1].onclick = function() {
      document.getElementById('group_dist').style.display = 'none';
      document.getElementById('long_names').style.display = 'block';
-     updateRoutes();
+     document.getElementById("route-container").innerHTML = "";
+     const chbx = document.getElementsByName("distance");
+     for(let i=0; i < chbx.length; i++) {
+       chbx[i].checked = false;
+     }
   }
 
   var rad = document.route_form.distance;
@@ -63,13 +73,6 @@ function listenToTheRadio() {
       updateRoutes();
     };
   }
-
-  // set some defaults I guess
-  /*document.route_form.route.value = "interlaken";
-  document.route_form.distance.value = "3";
-
-  updateRoutes();*/
-}
 
 function updateRoutes() {
 
