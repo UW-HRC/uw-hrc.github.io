@@ -51,7 +51,6 @@ function listenToTheRadio() {
         chbx[i].checked = false;
       }
       document.getElementById("route-container").innerHTML = "";
-      long_run == false;
     };
   }
 
@@ -59,11 +58,11 @@ function listenToTheRadio() {
   rad[rad.length - 1].onclick = function() {
      document.getElementById('group_dist').style.display = 'none';
      document.getElementById('long_names').style.display = 'block';
-     document.getElementById("route-container").innerHTML = "";
      const chbx = document.getElementsByName("distance");
      for(let i=0; i < chbx.length; i++) {
        chbx[i].checked = false;
      }
+     document.getElementById("route-container").innerHTML = "";
   }
 
   var rad = document.route_form.distance;
@@ -73,6 +72,7 @@ function listenToTheRadio() {
       updateRoutes();
     };
   }
+}
 
 function updateRoutes() {
 
