@@ -26,6 +26,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 
 </style>
 
+<!--
 ### Race Results 2019
 
 
@@ -198,28 +199,26 @@ Thank you to everyone for racing and supporting Let Me Run! See you all next yea
 </tr>
 </tbody></table>
 </p>
-<!-- #### **Race Date: Sunday, April 14th, 2019, 10am**
+-->
 
-Join Husky Running Club for a 5K run and walk around the beautiful UW campus, with proceeds benefiting Let Me Run, a running program for young boys to teach empowerment of self and others, self-esteem, and emotional expression.
+**Race Date: Sunday, April 22nd, 2023, 10am**
+
+Join Husky Running Club for a 5K run and walk around the beautiful UW campus, with proceeds benefiting [United in Stride](https://www.unitedinstride.com/), a platform for uniting visually impaired runners and sighted guides.
 
 ### Registration
 
-#### [Register for PAWS online](https://www.eventbrite.com/e/paws-for-a-cause-2019-tickets-57738297803), and [RSVP on Facebook](https://www.facebook.com/events/638084773312461/)!
-
-Save $5 on registration by pre-registering online at the link above for $10. Day of race registration is also available for $15 from **9-9:45am**, and is by cash, check, or card only. Registration will take place nearby the start line, on the HUB Lawn.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2687.4617661760153!2d-122.30831863425557!3d47.65602522918791!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5490148d695b391f%3A0xb021e2e4b225450e!2sHUB+Yard%2C+Seattle%2C+WA+98105!5e0!3m2!1sen!2sus!4v1521943625073" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe><br>
+#### [Register for PAWS online](https://www.eventbrite.com/e/paws-for-a-cause-2019-tickets-57738297803)
+<!--update registration link-->
+Day-of registration, bib-pickup, and bag check-in starts at 9:15am and will be located at the HUB Lawn. Payment for day-of registration will be $15 in cash or venmo. Participants must still register via the portal above prior to day of event.
 
 ### Event Details and Schedule
 
-The race start line will be located nearby the HUB Lawn and Suzzallo/Allen Breezeway. **T-shirts will be available for purchase at $10**, and bag-check will also be located here.
+The race start line will be located at the HUB Lawn.
 
 The race will begin promptly at 10am! Be sure to arrive early so you can ensure that you have enough time to check-in, pin your number, and warm up!
 
-[Join the Facebook event and let your friends know!](https://www.facebook.com/events/164218301058028/) -->
-
 ### Course Map
 
-<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/en/map/paws-for-a-cause-2019_315108?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#16/47.6543/-122.3027"></iframe>
+<iframe id='mapmyfitness_route' src='https://www.mapmyrun.com/routes/view/embedded/5406938608?width=600&height=561&undefined&line_color=E61900DC&rgbhex=DC0019&distance_markers=0&unit_type=imperial&map_mode=ROADMAP&show_marker_every=1&last_updated=2023-02-15T21:54:41+00:00' height='561px' width='100%' frameborder='0' /><div class="jss629" id="embed-frame-footer"><a rel="noopener noreferrer" target="_blank" href="https://www.mapmyrun.com/routes/view/5406938608" class="jss630"><p class="MuiTypography-root jss631 MuiTypography-body1" string="View Route Details">View Route Details</p></a><div class="jss632"><p class="MuiTypography-root jss633 jss654 MuiTypography-body1">Create routes or search for a route at <span><a rel="noopener noreferrer" target="_blank" href="https://www.mapmyrun.com/" string="MapMyRun." class="jss631">MapMyRun.</a></span></p></div></div>
 
-See more details <a href="https://www.strava.com/routes/18126882" target="_blank">on Strava</a>.
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/en/map/paws-for-a-cause-2019_315108?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#16/47.6543/-122.3027"></iframe>
