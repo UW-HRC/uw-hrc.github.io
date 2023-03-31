@@ -217,6 +217,16 @@ The race start line will be located at the HUB Lawn.
 
 The race will begin promptly at 10am! Be sure to arrive early so you can ensure that you have enough time to check-in, pin your number, and warm up!
 
+### Prizes
+
+The three fastest participants for men and women will get the following prizes:
+
+**1st:** $50 Jock and Jill Giftcard
+
+**2nd:** United in Stride Hat
+
+**3rd:** United in Stride Hat
+
 ### Course Map
 
 <iframe id='mapmyfitness_route' src='https://www.mapmyrun.com/routes/view/embedded/5406938608?width=600&height=561&undefined&line_color=E61900DC&rgbhex=DC0019&distance_markers=0&unit_type=imperial&map_mode=ROADMAP&show_marker_every=1&last_updated=2023-02-15T21:54:41+00:00' height='561px' width='100%' frameborder='0' /><div class="jss629" id="embed-frame-footer"><a rel="noopener noreferrer" target="_blank" href="https://www.mapmyrun.com/routes/view/5406938608" class="jss630"><p class="MuiTypography-root jss631 MuiTypography-body1" string="View Route Details">View Route Details</p></a><div class="jss632"><p class="MuiTypography-root jss633 jss654 MuiTypography-body1">Create routes or search for a route at <span><a rel="noopener noreferrer" target="_blank" href="https://www.mapmyrun.com/" string="MapMyRun." class="jss631">MapMyRun.</a></span></p></div></div>
