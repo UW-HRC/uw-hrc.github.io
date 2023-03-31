@@ -215,7 +215,7 @@ Day-of registration, bib-pickup, and bag check-in starts at 9:15am and will be l
 
 The race start line will be located at the HUB Lawn.
 
-The race will begin promptly at 10am! Be sure to arrive early so you can ensure that you have enough time to check-in, pin your number, and warm up!
+The race will begin promptly at 10am! Be sure to arrive early so you can ensure that you have enough time to check-in, pin your number, and warm up.
 
 ### Prizes
 
