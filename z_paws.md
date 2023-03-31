@@ -211,6 +211,8 @@ Join Husky Running Club for a 5K run and walk around the beautiful UW campus, wi
 <!--update registration link-->
 Day-of registration, bib-pickup, and bag check-in starts at 9:15am and will be located at the HUB Lawn. Payment for day-of registration will be $15 in cash or venmo. Participants must still register via the portal above prior to day of event.
 
+The first 24 participants to register for the event will receive a free event T-shirt. Look out for an email from us regarding your free T-shirt!
+
 ### Event Details and Schedule
 
 The race start line will be located at the HUB Lawn.
