@@ -207,8 +207,8 @@ Join Husky Running Club for a 5K run and walk around the beautiful UW campus, wi
 
 ### Registration
 
-#### [Register for PAWS online](https://www.eventbrite.com/e/paws-for-a-cause-2019-tickets-57738297803)
-<!--update registration link-->
+#### [Register for PAWS online](https://docs.google.com/forms/u/1/d/e/1FAIpQLSekwnBuiHGnr9-gF5mPVhwfxfKNZ8UjcYhxkSTTzEC3OPpmHA/viewform?usp=sf_link)
+
 Day-of registration, bib-pickup, and bag check-in starts at 9:15am and will be located at the HUB Lawn. Payment for day-of registration will be $15 in cash or venmo. Participants must still register via the portal above prior to day of event.
 
 The first 24 participants to register for the event will receive a free event T-shirt. Look out for an email from us regarding your free T-shirt!
@@ -228,6 +228,10 @@ The three fastest participants for men and women will get the following prizes:
 **2nd:** United in Stride Hat
 
 **3rd:** United in Stride Hat
+
+### Contact Us
+
+For any questions and/or concerns, please DM us through our instagram [@huskyrunningclub](https://www.instagram.com/huskyrunningclub/).
 
 ### Course Map
 
