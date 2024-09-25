@@ -24,3 +24,8 @@ gem "minima"
 # group :jekyll_plugins do
 #   gem "jekyll-github-metadata", "~> 1.0"
 # end
+gem 'logger'
+gem 'csv'
+gem 'ostruct'
+gem 'base64'
+gem 'bigdecimal'
