@@ -20,6 +20,7 @@
 .officer-photo {
   width: 100%;
   border-radius: 5px;
+  max-height: 250px;
 }
 
 .officer-role {
