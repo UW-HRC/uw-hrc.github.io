@@ -28,6 +28,7 @@ Husky Running Club has no official "membership" requirement; all students are we
 
 #### Get To Know Us!
 
+- On Wednesday (9/24/26) There will be an info session in <a href="Savery Hall, Chelan Ln NE, Seattle, WA 98195" target="_blank">Sav131</a> from 4:30-5:30pm.
 - Follow our <a href="https://www.instagram.com/huskyrunningclub/" target="_blank">Instagram</a> to get important updates about the club, and
 - Explore our [routes]({{ site.baseurl }}/routes).
 - Feel free to ask questions on our <a href="https://discord.com/invite/QkTvC542Cs" target="_blank">discord</a> as well.
